@@ -510,6 +510,15 @@ body{
     100%{transform: rotate(0);}
 }
 
+.fa-arrow-left{
+    position: absolute;
+    top: 750px;
+    right: 350px;
+}
 
-
+.fa-arrow-right{
+    position: absolute;
+    top: 750px;
+    right: 50px;
+}
 
