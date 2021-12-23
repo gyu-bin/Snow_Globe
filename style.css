@@ -522,3 +522,7 @@ body{
     right: 50px;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
