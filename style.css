@@ -512,14 +512,16 @@ body{
 
 .fa-arrow-left{
     position: absolute;
-    top: 650px;
+    top: 500px;
     right: 350px;
+    font-size: 30px;
 }
 
 .fa-arrow-right{
     position: absolute;
-    top: 650px;
-    right: 50px;
+    top: 500px;
+    right: 7px;
+    font-size: 30px;
 }
 
 a{
